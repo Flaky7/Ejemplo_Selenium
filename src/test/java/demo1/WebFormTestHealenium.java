@@ -15,7 +15,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class WebFormTest {
+public class WebFormTestHealenium {
 
     SelfHealingDriver driver;
     WebDriverWait wait;
